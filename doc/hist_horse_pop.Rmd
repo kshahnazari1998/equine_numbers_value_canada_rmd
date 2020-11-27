@@ -2,7 +2,7 @@
 title: "Historical horse population in Canada"
 bibliography: horse_refs.bib
 params:
-  province: "Ontario"
+  province: "Ontario" 
 output:
   github_document:
     toc: true

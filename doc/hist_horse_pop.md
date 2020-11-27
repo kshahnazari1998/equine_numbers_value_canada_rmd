@@ -32,6 +32,8 @@ tidyverse(Wickham 2017). The code used to perform the analysis and
 create this report can be found here:
 <https://github.com/ttimbers/equine_numbers_value_canada_rmd>.
 
+There was a cool paper about machine learning once (Michie et al. 1994)
+
 ## Results
 
 <div class="figure">
@@ -70,7 +72,7 @@ time point between 1940 - 1972:
 Table 1. Maximum and minimum number of horses for each province between
 1940 - 1972
 
-Below we zoom in and look at the province of Alberta:
+Below we zoom in and look at the province of Ontario:
 
 <div class="figure">
 
@@ -84,6 +86,14 @@ Figure 2 Horse populations for Alberta between 1940-172
 # References
 
 <div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-michie1994machine" class="csl-entry">
+
+Michie, Donald, David J Spiegelhalter, CC Taylor, and others. 1994.
+“Machine Learning.” *Neural and Statistical Classification* 13 (1994):
+1–298.
+
+</div>
 
 <div id="ref-R" class="csl-entry">
 

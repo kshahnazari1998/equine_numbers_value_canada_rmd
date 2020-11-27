@@ -76,9 +76,9 @@ Below we zoom in and look at the province of Ontario:
 
 <div class="figure">
 
-<img src="hist_horse_pop_files/figure-gfm/plot province-1.png" alt="Figure 2 Horse populations for Alberta between 1940-172" width="50%" />
+<img src="hist_horse_pop_files/figure-gfm/plot province-1.png" alt="Figure 2 Horse populations for Ontario  between 1940-172" width="50%" />
 <p class="caption">
-Figure 2 Horse populations for Alberta between 1940-172
+Figure 2 Horse populations for Ontario between 1940-172
 </p>
 
 </div>
